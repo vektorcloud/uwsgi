@@ -1,4 +1,4 @@
-FROM vektorlab/python2:latest
+FROM quay.io/vektorcloud/python2:latest
 
 RUN apk add --no-cache gcc musl-dev uwsgi uwsgi-python && \
     pip install uwsgi && \
