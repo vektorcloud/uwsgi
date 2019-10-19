@@ -1,6 +1,6 @@
 # uswgi
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/uwsgi)
 
 Alpine-based Uwsgi image
 
